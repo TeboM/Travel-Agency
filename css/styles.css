@@ -1,0 +1,17 @@
+html,
+body,
+header{
+    height: 100%;
+} 
+
+.navbar {
+    background-color: rgba(144, 144, 144, .5);
+}
+
+#intro {
+    background: url("/img/bg/")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
